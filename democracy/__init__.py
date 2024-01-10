@@ -1,0 +1,1 @@
+from .democracy import Democracy
